@@ -38,8 +38,8 @@
 
 <div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh001111)](https://solved.ac/sjh001111/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sjh001111/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh001111)](https://solved.ac/sjh001111)
+[![LeetCode Stats](https://leetcode.card.workers.dev/sjh001111?theme=dark&font=baloo&extension=null)](https://leetcode.com/sjh001111/)
 
 </div>
 

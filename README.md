@@ -21,26 +21,18 @@
 
 ---
 
-
-
 ## 📊 **GitHub Stats**
-
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjh001111&show_icons=true&theme=dark&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjh001111&layout=compact&theme=dark&hide_border=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=sjh001111&show_icons=true&theme=dark&count_private=true&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjh001111&layout=compact&theme=dark&hide_border=true" width="48%">
 </div>
 
 ---
 
 ## 🏆 **Problem Solving**
-
 <div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh001111)](https://solved.ac/sjh001111)
-[![LeetCode Stats](https://leetcode.card.workers.dev/sjh001111?theme=dark&font=baloo&extension=null)](https://leetcode.com/sjh001111/)
-
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh001111" width="48%">
+<img src="https://leetcode.card.workers.dev/sjh001111?theme=dark&font=baloo&extension=null" width="48%">
 </div>
 
 ---

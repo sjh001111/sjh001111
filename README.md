@@ -21,6 +21,15 @@
 
 ---
 
+## 🚀 Current Focus
+
+I'm currently focused on **JobMatch**, a full-stack web application designed to streamline the job search process. It uses an AI model to analyze a user's CV and intelligently match them with the most suitable job postings.
+
+- **Try the live app:** [jobmatch-frontend.vercel.app](https://jobmatch-frontend.vercel.app/)
+- **Explore the code:** [Frontend](https://github.com/sjh001111/JobMatch_Frontend) / [Backend](https://github.com/sjh001111/JobMatch_Backend)
+
+---
+
 ## 📊 **GitHub Stats**
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sjh001111&show_icons=true&theme=dark&count_private=true&hide_border=true" width="48%">

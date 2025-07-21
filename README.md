@@ -23,7 +23,7 @@
 
 ## 🚀 Current Focus
 
-I'm currently focused on **JobMatch**, a full-stack web application designed to streamline the job search process. It uses an AI model to analyze a user's CV and intelligently match them with the most suitable job postings.
+I'm currently focused on **JobMatch**, a full-stack web application designed to streamline the job search process. It uses an AI model to analyse a user's resume and profile, and then intelligently match them with the most suitable job postings.
 
 - **Try the live app:** [jobmatch-frontend.vercel.app](https://jobmatch-frontend.vercel.app/)
 - **Explore the code:** [Frontend](https://github.com/sjh001111/jobmatch-frontend) / [Backend](https://github.com/sjh001111/jobmatch-backend)

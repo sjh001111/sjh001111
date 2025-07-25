@@ -48,6 +48,7 @@ I'm currently focused on JobMatch, a full-stack web application designed to stre
 
 ## 📫 **Contact**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=web&logoColor=white)](https://joonghyukseong.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sjh001111@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sjh001111)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/sjh001111)

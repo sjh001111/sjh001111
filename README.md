@@ -25,7 +25,7 @@
 
 I'm currently focused on JobMatch, a full-stack web application designed to streamline the job search process. It uses an AI model to analyse a user's resume and profile and then analyse their suitability for various job postings.
 
-- **Try the live app:** [jobmatch-frontend.vercel.app](https://jobmatch-frontend.vercel.app/)
+- **Try the live app:** [joonghyukseong.com/jobmatch](https://joonghyukseong.com/jobmatch)
 - **Explore the code:** [Frontend](https://github.com/sjh001111/jobmatch-frontend) / [Backend](https://github.com/sjh001111/jobmatch-backend)
 
 ---
